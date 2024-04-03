@@ -1,0 +1,22 @@
+body{
+    background-color: #1d2630;
+}
+h1{
+    color: #fff;
+}
+.container{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+.btn{
+   margin-left: .2rem; 
+}
+.btn:hover{
+    background-color: #fff;
+    color: #1d2630;
+   
+}
+.modal-header{
+    background: #1d2630;
+}
